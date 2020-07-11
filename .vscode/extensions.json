@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    // General
+    "editorconfig.editorconfig",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    // html
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    // Vue
+    "octref.vetur",
+    // Firebase
+    "toba.vsfire",
+    // ESLint
+    "dbaeumer.vscode-eslint",
+    // Tailwind
+    "bradlc.vscode-tailwindcss"
+  ]
+}
